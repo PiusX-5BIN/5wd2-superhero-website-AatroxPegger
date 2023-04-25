@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+
+}
+
+div {
+    padding-left: 160px;
+    padding-right: 160px;
+    margin-right: 160px;
+    margin-left: 160px;
+}
+
+table {
+    width: 100%;
+}
+
+ul {
+    width: 100%;
+}

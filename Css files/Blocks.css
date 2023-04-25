@@ -1,0 +1,51 @@
+#Superherobanner{
+    font-size: 50px;
+    text-shadow: 2px 2px 5px gold;
+}
+
+#Superherobannerfoto{
+    width: 900px;
+}
+
+#Getuige {
+    font-size: 30px;
+}
+
+.lightningimage {
+    width: 30px;
+}
+
+#Overzicht {
+    text-align: left;
+}
+
+#Overzichtfoto {
+    float: right;
+}
+
+#Navigator {
+    color: black;
+    font-size: 35px;
+    font-style: italic;
+    border-bottom: 50px;
+}
+
+.Titel {
+    font-style: sans-serif;
+    font-size: 50px;
+}
+
+#ReturnButton {
+    text-align: right;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+}
+
+#ReturnButtonImage {
+    width: 5%;
+}
+
+#Footertext {
+    font-size: 10px;
+}
