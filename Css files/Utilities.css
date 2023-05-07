@@ -1,26 +1,15 @@
-#Navigator {
+body{
+    background-image: url("Fotos/backgroundimage.jpg");
+}
+
+.Kader1 {
     background-color: gold;
 }
 
-#Overzicht {
+.Kader2 {
     background-color: rgb(234, 234, 234);
 }
 
-#krachten {
+.Kader3 {
     background-color: black;
-    color: gold;
-}
-
-#Getuigen {
-    background-color: gold;
-}
-
-#Comics {
-    background-color: rgb(234, 234, 234);
-}
-
-#Footer {
-    background-color: black;
-    color: gold;
-
 }
